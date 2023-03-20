@@ -6,7 +6,7 @@ A:
 git clone https://github.com/Gaser98/test.git
 cd test
 touch ft
-git add f2
+git add ft
 git commit -m "name"
 git push
 mkdir test2
